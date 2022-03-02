@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharat2699
-- 👀 I’m interested in Android Development, Machine Learning, Django with ReactJS and Learning new stuff  
-- 💞️ I’m looking to collaborate on everything i can 
-- 📫 How to reach me mail me on bharatgian@gmail.com 
+- 👋 Hi, I’m Bharat Gyanchandani.
+- 👀 I’m interested in Android Development, Machine Learning, Django, Django-Rest Framework, nodeJS, nestJS or basically backend development and Learning new stuff. 
+- 💞️ I’m looking to collaborate on everything i can.
+- 📫 How to reach me mail me on bharatgian@gmail.com.
